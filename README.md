@@ -4,7 +4,7 @@ I. File list
 AVLTNode.cc		AVL tree node (AVLTNode) implementation
 AVLTNode.h		AVLTNode headerss
 AVLTree.cc		AVL tree (AVLTree) implementation
-AVLTree.h		AVLTree header
+AVLTree.h		AVLTree headerS
 BinarySearchTree.cc	Binary search tree (BinarySearchTree) implementation
 BinarySearchTree.h	BinarySearchTree header
 BSTNode.cc		Binary search tree node (BSTNode) implementation
